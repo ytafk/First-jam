@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: c95330cdceacd9a4ab5f9f7a311d04f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spdryterrain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e635a166f634fd4982e74ffce56c68a
+      internalID: -1637689962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6502e8c53e07b4591d2bc34d913db8
+      internalID: 548597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2629a51acfe7c34e84f2a879c571252
+      internalID: -2050275748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900f841c9a679a4e9a0f7fadf1c0f88
+      internalID: 589343039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535236fd1ac6eed4785a07f2c5c0583d
+      internalID: 1751249975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2b298133ac8ca48bd84aa9b61cb698
+      internalID: -78181586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2103540fcde7f1d46b6c53cf37b3f259
+      internalID: 1620417819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bcc9a5619e0146a1141c129becc22
+      internalID: 972701303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8dec5465744c43b487aa5848be2a9
+      internalID: -200531483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a66476ae179164fbef78cec0ef5ae1
+      internalID: -236902463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e5f5046c740ec4ab3611104a1afb34
+      internalID: 1825070179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21689d029375847a1de803c05430f6
+      internalID: 359114462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5c414a7dc17748bdfaea24d966f83
+      internalID: -383692944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109864e7f5c2ef1408f958d32eb34d65
+      internalID: -1558392128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8bff1037998941bc5658cdffde89e
+      internalID: 1059478260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff3416718b2f949ae614118aaaa9e0
+      internalID: 2030450797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca22d6959bd624438ea710653a7ffdf
+      internalID: 175384886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324794e476e581144b146384f4f38187
+      internalID: 774474827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12298cb4c2ed54d8bcc4c91cb5b3c6
+      internalID: 1532429170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13140f4fed462a743a6e7491b1e598d6
+      internalID: -873387121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d16358f8387a143b248b1685f8b70b
+      internalID: 923133350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5250fb982aaf342ae317e4381eb079
+      internalID: 778014169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306bb824202e4e24f88d2fc02b1180f9
+      internalID: 730682404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf507434daa0ed4590d63cccf206133
+      internalID: -483630829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463fecc593529443843ca65fa1d0f71
+      internalID: -130513378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a95a69563a494f81a6986531a94b1
+      internalID: -2046375225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83886c0edc85e49b9350dcc8ad8b15
+      internalID: -1306816121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d969b6b096b74c88a6d7ddc5859ca
+      internalID: -843401839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857c7ec7bd54224bac79ea364b6dfca
+      internalID: -1936531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77322371fed522e40a8d26f939f9b456
+      internalID: 1485561783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ad78df77ebaf47857492e487b010a
+      internalID: 86072673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699343b8a012732499b4e55bd673e4c9
+      internalID: 1848342932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182baddbec9281e42bc546b66b756a55
+      internalID: -1278013209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd22b774f8da84eb6daf390155fbf7
+      internalID: 1015021037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ef3e4396db7744af9b31b077f8697
+      internalID: 912170380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea2217abea47d64eb2ed4c9c4b77975
+      internalID: -1581944655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75581ccee7b90e746b3f22d235128d73
+      internalID: -1739996248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9856b6c7c54e644f927a1d57beafedf
+      internalID: -954840889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b414feba91c1034469b0d916c581accd
+      internalID: 1304493940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09476370807af24fa4596230c94b71c
+      internalID: -1276139919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f4708f9e12e54b85a9b5f6c46886d
+      internalID: 284958877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd5fd0e55c89646b5e41eb063c8202
+      internalID: 1633775557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba044bc64ec92542ae864e01519c6bd
+      internalID: -293099131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99e6b0abb6a704bbfe04d643a6a9b3
+      internalID: 1666047248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613bc2bd4f44d35489aa0b8d330c3cea
+      internalID: -510176767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a0350b0e84044d9b8f3e41b8cf209
+      internalID: -1866210338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f7e18ce51817140945cafc25a374bd
+      internalID: 1687938846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e3817178fbf64b8485c7621c2e376
+      internalID: -1088430965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spdryterrain_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 5000
+        height: 2.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0beeda4bff0a46af65418d631c64b
+      internalID: 564156237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spdryterrain_0: -1637689962
+      spdryterrain_1: 548597262
+      spdryterrain_10: 1825070179
+      spdryterrain_11: 359114462
+      spdryterrain_12: -383692944
+      spdryterrain_13: -1558392128
+      spdryterrain_14: 1059478260
+      spdryterrain_15: 2030450797
+      spdryterrain_16: 175384886
+      spdryterrain_17: 774474827
+      spdryterrain_18: 1532429170
+      spdryterrain_19: -873387121
+      spdryterrain_2: -2050275748
+      spdryterrain_20: 923133350
+      spdryterrain_21: 778014169
+      spdryterrain_22: 730682404
+      spdryterrain_23: -483630829
+      spdryterrain_24: -130513378
+      spdryterrain_25: -2046375225
+      spdryterrain_26: -1306816121
+      spdryterrain_27: -843401839
+      spdryterrain_28: -1936531825
+      spdryterrain_29: 1485561783
+      spdryterrain_3: 589343039
+      spdryterrain_30: 86072673
+      spdryterrain_31: 1848342932
+      spdryterrain_32: -1278013209
+      spdryterrain_33: 1015021037
+      spdryterrain_34: 912170380
+      spdryterrain_35: -1581944655
+      spdryterrain_36: -1739996248
+      spdryterrain_37: -954840889
+      spdryterrain_38: 1304493940
+      spdryterrain_39: -1276139919
+      spdryterrain_4: 1751249975
+      spdryterrain_40: 284958877
+      spdryterrain_41: 1633775557
+      spdryterrain_42: -293099131
+      spdryterrain_43: 1666047248
+      spdryterrain_44: -510176767
+      spdryterrain_45: -1866210338
+      spdryterrain_46: 1687938846
+      spdryterrain_47: -1088430965
+      spdryterrain_48: 564156237
+      spdryterrain_5: -78181586
+      spdryterrain_6: 1620417819
+      spdryterrain_7: 972701303
+      spdryterrain_8: -200531483
+      spdryterrain_9: -236902463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

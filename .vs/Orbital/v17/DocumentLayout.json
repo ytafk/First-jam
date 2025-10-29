@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-gameplay\\rocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-gameplay\\rocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-gameplay\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-gameplay\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|d:\\yta\\desktop\\connected-orbits-jam\\orbital\\assets\\scripts-core\\camerashaker2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-core\\camerashaker2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-core\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-core\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-gameplay\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-gameplay\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-gameplay\\planetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-gameplay\\planetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\assets\\scripts-gameplay\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC79D4-807C-A4C9-04C8-375696099A15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts-gameplay\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraShaker2D.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\CameraShaker2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Core\\CameraShaker2D.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\CameraShaker2D.cs",
+              "RelativeToolTip": "Assets\\Scripts-Core\\CameraShaker2D.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:49:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Core\\CameraManager.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts-Core\\CameraManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:48:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanetPlacer.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\PlanetPlacer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Gameplay\\PlanetPlacer.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\PlanetPlacer.cs",
+              "RelativeToolTip": "Assets\\Scripts-Gameplay\\PlanetPlacer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAmwKsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:52:13.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Gameplay\\Goal.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\Goal.cs",
+              "RelativeToolTip": "Assets\\Scripts-Gameplay\\Goal.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwI0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:27:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Core\\GameManager.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts-Core\\GameManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAcwDIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:52:56.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Gameplay\\PowerUp.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\PowerUp.cs",
+              "RelativeToolTip": "Assets\\Scripts-Gameplay\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:24:23.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RocketController.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\RocketController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Gameplay\\RocketController.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\RocketController.cs",
+              "RelativeToolTip": "Assets\\Scripts-Gameplay\\RocketController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwHwAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:52:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts-Gameplay\\Obstacle.cs",
+              "ToolTip": "D:\\YTA\\Desktop\\Connected-Orbits-Jam\\Orbital\\Assets\\Scripts-Gameplay\\Obstacle.cs*",
+              "RelativeToolTip": "Assets\\Scripts-Gameplay\\Obstacle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:28:47.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
