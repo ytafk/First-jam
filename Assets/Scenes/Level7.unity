@@ -3204,8 +3204,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b969b400477c147b97aa7315c35f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultAmplitude: 0.4
-  defaultDuration: 0.25
+  defaultAmplitude: 4
+  defaultDuration: 1
 --- !u!1001 &1287988065
 PrefabInstance:
   m_ObjectHideFlags: 0

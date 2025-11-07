@@ -555,8 +555,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b969b400477c147b97aa7315c35f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultAmplitude: 0.4
-  defaultDuration: 0.25
+  defaultAmplitude: 4
+  defaultDuration: 1
 --- !u!1001 &352483275
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1121,7 +1121,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8688060148503918247, guid: 7487eac2795c6ca46bd0f8ce90b6ab97, type: 3}
       propertyPath: moveSpeed
-      value: 2.4
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 8688060148503918247, guid: 7487eac2795c6ca46bd0f8ce90b6ab97, type: 3}
       propertyPath: moveDistance
@@ -3478,7 +3478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8688060148503918247, guid: 7487eac2795c6ca46bd0f8ce90b6ab97, type: 3}
       propertyPath: moveSpeed
-      value: -2.4
+      value: -2.5
       objectReference: {fileID: 0}
     - target: {fileID: 8688060148503918247, guid: 7487eac2795c6ca46bd0f8ce90b6ab97, type: 3}
       propertyPath: moveDistance
